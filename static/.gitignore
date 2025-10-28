@@ -1,0 +1,17 @@
+# Ignorar ambiente virtual
+venv/
+
+# Arquivos temporários e cache do Python
+*.pyc
+__pycache__/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos de ambiente e sistema
+.env
+.DS_Store
+
+# Banco de dados local
+*.db
+tasks.db
